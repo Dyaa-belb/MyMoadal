@@ -1,0 +1,10 @@
+{
+  "version": "1.0.2",
+  "apkUrl": "https://github.com/yourusername/mymoadal/releases/download/v1.2.0/MyMoadal.apk",
+  "changelog": [
+    "Improved calculation accuracy",
+    "UI refinements",
+    "Bug fixes"
+  ],
+  "force": false
+}
